@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Jon Barcena, a graduate data scientist at Funding Circle
 <!--
 **JonBarcena/JonBarcena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
